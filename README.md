@@ -13,3 +13,11 @@ pip install bs4
 ## But du jeu
 Le principe est simple, trouver une page wikipédia en passant uniquement par les liens wikipédia.
 La page wikipédia à trouver est choisie au hasard tout comme la page de départ. 
+
+## A faire :
+* Optimiser le code
+* Système de triage des liens
+* Système de recherche des liens
+* Améliorer l'interface
+   * Ajouter un écran de démarrage
+   * Afficher les règles
